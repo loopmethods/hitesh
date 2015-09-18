@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>IAFS</name>
+<!--<preference name="orientation" value="portrait" />
+<preference name="LoadingDialog" value="IAFS"/>-->
+ <icon src="icon.png" />
+    <icon gap:platform="android" gap:qualifier="ldpi" src="images/logo.png" />
+    <icon gap:platform="android" gap:qualifier="mdpi" src="images/logo.png" />
+    <icon gap:platform="android" gap:qualifier="hdpi" src="images/logo.png" />
+    <icon gap:platform="android" gap:qualifier="xhdpi" src="images/logo.png" />
+<description>
+First IAFS
+</description>
+
+<author href="https://example.com" email="you@example.com">
+IAFS
+</author>
+
+</widget>
